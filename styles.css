@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 10px;
+    min-height: 100vh;
+}
+
+#name, #email, #number {
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h1, p {
+    margin: 1em auto;
+    text-align: center;
+}
+p {
+    margin-bottom: 30px;
+}
+
+#title {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#description {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    margin: auto;
+    padding: 10px;
+    max-width: 500px;
+    box-shadow: 0 0 10px 0 black;
+}
+
+fieldset {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    text-align: center;
+}
+
+.checked {
+    display: flex;
+    justify-content: 
+}
+
+input[type="text"], input[type="email"],input[type="number"] {
+    border: 1px solid rgb(233, 233, 233);
+    width: 100%;
+}
+
+input[type="submit"] {
+    display: block;
+    width: 50%;
+    margin: 1em auto;
+    height: 2em;
+    font-size: 1.1rem;
+    background-color: grey;
+    border-color: black;
+    min-width: 100px;
+}
+
