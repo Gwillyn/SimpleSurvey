@@ -4,4 +4,4 @@
  The presented code is very self-explanitory.  
 
 
-This project is deployed, check out the [survey](simplefunnysurvey.netflify.app)!  
+This project is deployed, check out the [survey](simplefunnysurvey.netlify.app)!  
